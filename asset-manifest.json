@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baitapled/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/baitapled/static/js/main.eca70a98.chunk.js",
+    "main.js.map": "/baitapled/static/js/main.eca70a98.chunk.js.map",
+    "runtime-main.js": "/baitapled/static/js/runtime-main.36d272ed.js",
+    "runtime-main.js.map": "/baitapled/static/js/runtime-main.36d272ed.js.map",
+    "static/js/2.b3e0fc3b.chunk.js": "/baitapled/static/js/2.b3e0fc3b.chunk.js",
+    "static/js/2.b3e0fc3b.chunk.js.map": "/baitapled/static/js/2.b3e0fc3b.chunk.js.map",
+    "index.html": "/baitapled/index.html",
+    "precache-manifest.3073b4d3af19ed7ce17306ed6d3fc07d.js": "/baitapled/precache-manifest.3073b4d3af19ed7ce17306ed6d3fc07d.js",
+    "service-worker.js": "/baitapled/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "/baitapled/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.b3e0fc3b.chunk.js.LICENSE.txt": "/baitapled/static/js/2.b3e0fc3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d272ed.js",
+    "static/js/2.b3e0fc3b.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.eca70a98.chunk.js"
+  ]
+}
